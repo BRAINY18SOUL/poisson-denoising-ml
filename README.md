@@ -1,1 +1,1 @@
-# poisson-denoising-ml
+# hybrid-cnn-pde-image-denoising
